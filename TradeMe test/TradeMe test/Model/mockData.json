@@ -1,0 +1,131 @@
+
+{
+    "data": [
+        {
+            "Title": "iPhone 8 plus Silver 64GB",
+            "Region": "Auckland",
+            "IsClassified": true,
+            "PriceDisplay": "$450.00",
+            "IsAuction": false,
+            "BuyNowPrice": "",
+            "productImage": "image1"
+        },
+        {
+            "Title": "1992 Toyota Hilux Surf",
+            "Region": "Auckland",
+            "IsClassified": true,
+            "PriceDisplay": "$3,980",
+            "IsAuction": false,
+            "BuyNowPrice": "",
+            "productImage": "image2"
+        },
+        {
+            "Title": "Dahlia Labyrinth",
+            "Region": "Auckland",
+            "IsClassified": false,
+            "PriceDisplay": "$305",
+            "IsAuction": true,
+            "BuyNowPrice": "$305",
+            "productImage": "image3"
+        },
+        {
+            "Title": "Computer desk",
+            "Region": "Hamilton",
+            "IsClassified": false,
+            "PriceDisplay": "$600.00",
+            "IsAuction": true,
+            "BuyNowPrice": "$600.00",
+            "productImage": "image4"
+        },
+        {
+            "Title": "Coffee Mug",
+            "Region": "Wellington",
+            "IsClassified": false,
+            "PriceDisplay": "$45",
+            "IsAuction": true,
+            "BuyNowPrice": "$45",
+            "productImage": "image5"
+        },
+        {
+            "Title": "Right Rear Door Window",
+            "Region": "Wellington",
+            "IsClassified": true,
+            "PriceDisplay": "$45",
+            "IsAuction": false,
+            "BuyNowPrice": "",
+            "productImage": "image6"
+        },
+        {
+            "Title": "2 bedroom apartment",
+            "Region": "Hamilton",
+            "IsClassified": false,
+            "PriceDisplay": "$600.00",
+            "IsAuction": true,
+            "BuyNowPrice": "$750.00",
+            "productImage": "image7"
+        },
+        {
+            "Title": "iPhone 8 plus Silver 64GB",
+            "Region": "Auckland",
+            "IsClassified": true,
+            "PriceDisplay": "$450.00",
+            "IsAuction": false,
+            "BuyNowPrice": "",
+            "productImage": "image1"
+        },{
+            "Title": "iPhone 8 plus Silver 64GB",
+            "Region": "Auckland",
+            "IsClassified": true,
+            "PriceDisplay": "$450.00",
+            "IsAuction": false,
+            "BuyNowPrice": "",
+            "productImage": "image2"
+        },
+        {
+            "Title": "iPhone 8 plus Silver 64GB",
+            "Region": "Auckland",
+            "IsClassified": true,
+            "PriceDisplay": "$450.00",
+            "IsAuction": false,
+            "BuyNowPrice": "",
+            "productImage": "image1"
+        },
+        {
+            "Title": "iPhone 8 plus Silver 64GB",
+            "Region": "Auckland",
+            "IsClassified": true,
+            "PriceDisplay": "$450.00",
+            "IsAuction": false,
+            "BuyNowPrice": "",
+            "productImage": "image1"
+        },
+        {
+            "Title": "iPhone 8 plus Silver 64GB",
+            "Region": "Auckland",
+            "IsClassified": true,
+            "PriceDisplay": "$450.00",
+            "IsAuction": false,
+            "BuyNowPrice": "",
+            "productImage": "image2"
+        },
+        {
+            "Title": "iPhone 8 plus Silver 64GB",
+            "Region": "Auckland",
+            "IsClassified": true,
+            "PriceDisplay": "$450.00",
+            "IsAuction": false,
+            "BuyNowPrice": "",
+            "productImage": "image2"
+        },
+        {
+            "Title": "iPhone 8 plus Silver 64GB",
+            "Region": "Auckland",
+            "IsClassified": true,
+            "PriceDisplay": "$450.00",
+            "IsAuction": false,
+            "BuyNowPrice": "",
+            "productImage": "image2"
+        }
+    ]
+}
+
